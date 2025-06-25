@@ -1,3 +1,6 @@
+# 💫 About Me:
+Hi. I'm Amanuel Merara a full-stack developer who enjoys building clean, efficient, and user-friendly applications. I work mostly with Django, React, Node.js, and Flutter, and I’m always down to learn new tools and tech.<br><br>I love solving problems, writing clean code, and turning ideas into real, working products. Whether it's web or mobile, frontend or backend — I'm all about creating useful and smooth experiences.<br><br>Currently leveling up through projects, challenges, and constant learning.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amanuel-merara-3bb71a36a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amaanumararaa@gmail.com) 
