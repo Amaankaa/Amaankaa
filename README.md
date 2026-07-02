@@ -60,6 +60,6 @@ Async FastAPI backend for real-time monitoring — REST + WebSocket alerting, a 
 
 ### Beyond the code
 
-Google-backed (**A2SV**) competitive programmer — **1,000+ problems** solved across LeetCode & Codeforces, 26+ rated contests. I care about clean architecture, correctness, and code that's a pleasure for the next person to read.
+Google-backed (**A2SV**) competitive programmer — **1,000+ problems** solved across [LeetCode](https://leetcode.com/u/Dev-Amaan/) & Codeforces, 26+ rated contests. I care about clean architecture, correctness, and code that's a pleasure for the next person to read.
 
 <p align="center"><i>Open to roles in AI/LLM engineering, alignment & evaluation, and backend systems.</i></p>
