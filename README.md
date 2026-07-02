@@ -1,24 +1,47 @@
-# 💫 About Me:
-Hey! I’m Amanuel — a full-stack developer with a strong love for backend engineering. I build with Go, Python (especially Django), JavaScript, and React. I’m big on clean architecture, scalable APIs, and solving real-world problems that actually matter.<br>I stay grinding with side projects, React/Django builds, LeetCode sessions, and leveling up my system design game every day.<br><br>🔨 Working on: Full-stack apps with solid backend architecture<br><br>📚 Learning: System design, cloud deployment workflows, and deeper Go internals<br><br>🧠 Ask me about: Full-stack dev, API design, structuring scalable backends, or Go best practices
+<h1 align="center">Amanuel Merara Gutu</h1>
 
+<p align="center">
+  <b>Software Engineer</b> · LLM Evaluation &amp; Alignment · Backend / RAG Systems
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amanuel-merara-3bb71a36a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amaanumararaa@gmail.com) 
-
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amaankaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Amaankaa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaankaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Amaankaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://linkedin.com/in/amanuel-merara-3bb71a36a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:amanuel.merara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Amaankaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+AI-focused software engineer with **3+ years building production systems** and hands-on **frontier-LLM evaluation** experience. I've been contracted to **Anthropic (via Revelo)** to evaluate Claude Code's production PRs — generating the preference data behind RLHF and reward-model training — and I now author expert coding trajectories at **AfterQuery** that teach frontier models to reason.
+
+I like working where **alignment research meets real engineering**: not just labeling data, but building the RAG platforms and evaluation harnesses that turn "is this answer good?" into a reproducible, regression-tested metric.
+
+### What I'm doing now
+
+- 🔬 Authoring expert coding trajectories & agentic environments that train frontier LLMs — **@ AfterQuery**
+- 🏗️ Building RAG systems and scalable backends with **FastAPI**, **Go**, and **Next.js**
+- 📚 **Head of Education** — mentoring **40+ engineers** in DSA, algorithms & system design
+- 🌱 Going deeper on **system design, cloud deployment workflows, and Go internals**
+
+### Selected work
+
+**AlgoMentor** — *Graph-Guided RAG Learning Platform*
+Multi-tenant full-stack SaaS (FastAPI + Next.js, 46 endpoints / 19 Postgres tables) with top-12 pgvector retrieval over Gemini embeddings, async Celery + Redis ingestion, and token-by-token SSE streaming. Includes a **RAG evaluation harness** (hit rate, MRR, precision@k, LLM-as-judge) and a prerequisite-graph engine that recommends what to study next. Shipped with a 115-test suite and CI/CD to DigitalOcean.
+
+**SafeSight Analytics** — *Real-time Video Surveillance Platform*
+Async FastAPI backend for real-time monitoring — REST + WebSocket alerting, a configurable rules engine, role-based access, and a DeepFace vision integration. Backed by a 70+ test pytest suite and Docker Compose.
+
+### Tech I work with
+
+**Languages** — Python · Go · TypeScript · JavaScript · C++ · Java
+**Backend** — FastAPI · Gin (Go) · Node.js · REST · WebSockets · SSE · Celery
+**AI / LLM** — RAG · Embeddings · pgvector · LangChain · Claude API · Gemini · RLHF & Evaluation
+**Data / Infra** — PostgreSQL · MongoDB · Redis · MySQL · Docker · GitHub Actions · Linux
+**Frontend** — React · Next.js · Tailwind CSS
+
+### Beyond the code
+
+Google-backed (**A2SV**) competitive programmer — **1,000+ problems** solved across LeetCode & Codeforces, 26+ rated contests. I care about clean architecture, correctness, and code that's a pleasure for the next person to read.
+
+<p align="center"><i>Open to roles in AI/LLM engineering, alignment & evaluation, and backend systems.</i></p>
